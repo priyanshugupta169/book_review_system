@@ -6,8 +6,8 @@ This project implements a RESTful API using FastAPI for a hypothetical book revi
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd BRS
+   git clone https://github.com/priyanshugupta169/book_review_system
+   cd book_review_system
    ```
 
 2. **Install dependencies:**
